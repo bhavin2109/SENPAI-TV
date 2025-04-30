@@ -33,7 +33,7 @@ const Navbar = () => {
     >
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         <a href="#home" className="text-2xl font-bold gradient-heading">
-          DevPortfolio
+          Bhavin
         </a>
         
         {/* Desktop Navigation */}
