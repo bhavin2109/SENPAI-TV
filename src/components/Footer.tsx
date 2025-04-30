@@ -75,7 +75,7 @@ const Footer = () => {
         
         <div className="border-t border-border mt-8 pt-8 flex flex-col sm:flex-row justify-between items-center">
           <p className="text-foreground/60 text-sm">
-            &copy; {new Date().getFullYear()} DevPortfolio. All rights reserved.
+            &copy; {new Date().getFullYear()} Bhavin. All rights reserved.
           </p>
           <p className="text-foreground/60 text-sm mt-2 sm:mt-0">
             Designed & Built with ❤️ using MERN Stack

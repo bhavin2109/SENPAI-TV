@@ -40,7 +40,7 @@ const AboutSection = () => {
           </div>
           
           <div className="space-y-6">
-            <h3 className="text-2xl font-bold">Hi, I'm <span className="text-primary">Your Name</span></h3>
+            <h3 className="text-2xl font-bold">Hi, I'm <span className="text-primary">Bhavin</span></h3>
             <p className="text-foreground/80">
               I'm a full-stack developer specializing in building exceptional digital experiences using the MERN stack. With a strong foundation in MongoDB, Express.js, React.js, and Node.js, I create efficient, scalable, and user-friendly applications.
             </p>
